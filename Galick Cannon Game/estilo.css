@@ -1,0 +1,113 @@
+p{
+	margin: 0.5em 200px;
+	font-family: 'Press Start 2P';
+	font-size: medium;
+	text-align: justify;
+
+}
+nav {
+  	height: 60px;
+  	width: 1314px;
+  	padding-left: 0px;
+}
+
+th{
+	font-family: 'Press Start 2P';
+}
+#imagenes{
+
+	align-content: center;
+	padding-left: 150px;
+	padding-top: 50px;
+	width: 90%;
+}
+div{
+	align-content: center;
+}
+td{
+	text-align: center;
+	padding-top: 10px;
+}
+#gimp{
+	width: 90px;
+}
+#inkscape{
+width: 90px;	
+}
+#audacity{
+	width: 90px;
+}
+#titulo{
+	width: 800px;
+	align-content: center;
+	height: 180px;
+}
+#logo{
+	text-align: center;
+	background-image: url(images/ecenario.svg);
+
+}
+#menu{
+
+	text-align: center;
+
+}
+#social{
+	width: 40px;
+}
+#pie{
+	width: 80px;
+	align-content: center;
+	padding-left: 800px;
+}
+#foot{
+	padding:30px;
+}
+th{
+	padding: 10px;
+}
+body{
+	background: #8FC0A9;
+}
+img{
+	width: 100px;
+
+}
+nav{
+	font-family: 'Bungee', cursive;
+	font-size: 25px;
+	padding-left:  15px;
+	padding-right: 15px;
+	padding-top: 20px;
+	
+}
+a{
+	
+	color: #FF0000;
+	width: 15px;
+	padding-left:  15px;
+	padding-right: 15px;
+	padding-top: 20px;
+
+}
+a:link{
+	text-decoration: none;
+	color: #FD4420;
+}
+a:visiter{
+	color: #FD4420;
+}
+a:hover{
+	color: #FF6B09;
+}
+a:active{
+	color: #FD4420;
+}
+footer{
+		background-image: url(images/ecenario.svg);
+}
+
+#redes{
+	font-size: x-small;
+	color: #FFFFFF;
+}
