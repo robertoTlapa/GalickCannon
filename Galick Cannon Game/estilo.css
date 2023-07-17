@@ -1,3 +1,7 @@
+#logo{
+	background-image: url(images/ecenario.svg);
+	text-align: center;
+}
 p{
 	margin: 0.5em 200px;
 	font-family: 'Press Start 2P';
@@ -13,6 +17,8 @@ nav {
 
 th{
 	font-family: 'Press Start 2P';
+	padding: 10px;
+
 }
 #imagenes{
 
@@ -42,11 +48,7 @@ width: 90px;
 	align-content: center;
 	height: 180px;
 }
-#logo{
-	text-align: center;
-	background-image: url(images/ecenario.svg);
 
-}
 #menu{
 
 	text-align: center;
@@ -58,19 +60,18 @@ width: 90px;
 #pie{
 	width: 80px;
 	align-content: center;
-	padding-left: 800px;
+	padding-left: 400px;
 }
 #foot{
 	padding:30px;
+	background-image: url(images/ecenario.svg);
 }
-th{
-	padding: 10px;
-}
+
 body{
 	background: #8FC0A9;
 }
 img{
-	width: 100px;
+	width: 150px;
 
 }
 nav{
@@ -103,11 +104,58 @@ a:hover{
 a:active{
 	color: #FD4420;
 }
-footer{
-		background-image: url(images/ecenario.svg);
-}
-
 #redes{
 	font-size: x-small;
 	color: #FFFFFF;
+}
+#contacto{
+	color: #FFFFFF;
+	font-size: medium;
+}
+#flashContent{
+	text-align: center;
+	padding: 15px;
+}
+h1{
+	text-align: center;
+	font-family: 'Press Start 2P';
+	color: #61038D;
+}
+h3{
+	text-align: center;
+	font-family: 'Press Start 2P';
+	color: #61038D;
+}
+#navegacion{
+	align-content: center;
+	width: 220px;
+}
+#proyectil{
+	align-content: center;
+	width: 200px;
+}
+#proy{
+	text-align: center;
+}
+#flecha{
+	text-align: center;
+}
+#video{
+	text-align: center;
+}
+h4{
+	text-align: center;
+	font-family: 'Press Start 2P';
+	color: #61038D;
+}
+#creditos{
+	margin: 0.5em 200px;
+	font-family: 'Press Start 2P';
+	font-size: medium;
+	text-align: center;
+	padding-top: 10px;
+}
+#yo{
+align-content: center;
+text-align: center;
 }
